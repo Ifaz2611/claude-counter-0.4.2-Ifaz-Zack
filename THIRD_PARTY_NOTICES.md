@@ -13,7 +13,7 @@ This project vendors a small amount of third‑party code/data.
 ```
 MIT License
 
-Copyright (c) 2023-2024 Bazyli Brzoska
+Copyright (c) 2025-2026 Ifaz Zack
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
