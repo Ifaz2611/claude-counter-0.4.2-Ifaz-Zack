@@ -53,7 +53,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "src/injected/bridge.js"
+        "src/injected/*"
       ],
       "matches": [
         "https://claude.ai/*"

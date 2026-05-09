@@ -1,4 +1,4 @@
-<!-- # Claude Counter
+# Claude Counter
 
 A minimal browser extension that shows token count, cache timer, and usage bars on claude.ai.
 
@@ -38,7 +38,7 @@ A minimal browser extension that shows token count, cache timer, and usage bars 
 
 - All data stays local — no external servers, no tracking
 - Reads your `lastActiveOrg` cookie to query Claude's `/usage` endpoint
-- Makes requests only to `claude.ai` -->
+- Makes requests only to `claude.ai`
 
 ## Credits
 
